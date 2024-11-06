@@ -3,7 +3,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(216, 170, 170, 0.795);
+  background: purple;
 }
 
 ul {
@@ -36,7 +36,7 @@ ul li:hover span {
 }
 
 ul li:nth-child(1) span {
-  background: #4064AC;
+  background: #ac4040;
 }
 
 ul li:nth-child(2) span {
